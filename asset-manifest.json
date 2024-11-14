@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/docu-board-OwnVersion/static/css/main.bafd3848.css",
+    "main.js": "/docu-board-OwnVersion/static/js/main.c0df84d1.js",
+    "index.html": "/docu-board-OwnVersion/index.html",
+    "main.bafd3848.css.map": "/docu-board-OwnVersion/static/css/main.bafd3848.css.map",
+    "main.c0df84d1.js.map": "/docu-board-OwnVersion/static/js/main.c0df84d1.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.bafd3848.css",
+    "static/js/main.c0df84d1.js"
+  ]
+}
